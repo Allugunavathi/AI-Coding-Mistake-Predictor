@@ -1,0 +1,11 @@
+code,error_type
+"Print(""Hello"")","Print Error"
+"Pritn(""Hello"")","Print Error"
+"pritn(""Hello"")","Print Error"
+"print(""Hello"")","Syntax Error"
+"if x = 10:","Syntax Error"
+"print(10/0)","Zero Division"
+"print(x)","Name Error"
+"len([1,2])","Correct"
+"range(5)","Correct"
+"inputt()","Input Error"
